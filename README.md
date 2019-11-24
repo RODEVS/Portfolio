@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## RODEVS Portfolio
+
+Hey everyone, this is my personal portfolio website and by the way my first React JS project, feel free to use it and adapt it to your needs, if you have any question or advice about this or any other project please let me know...
+
+You could find this portfolio at http://www.rodevs.com/portfolio, where you can find some of my personal and professional projects. Please be pacient, I just started this project and it will take a while in order to put online all my best projects.
+
+I hope you can find in this project something useful and if you wish to use it please let me know your website address in order to know how much this has improved.
 
 ## Available Scripts
 
