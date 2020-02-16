@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import AppBar from '@material-ui/core/AppBar';
-import {Toolbar, Typography} from '@material-ui/core';
+import {Toolbar} from '@material-ui/core';
+import MainContent from './MainContent';
 import NavBar from './NavBar';
-
 
 class MainComponent extends Component { 
     render() {
@@ -10,12 +10,13 @@ class MainComponent extends Component {
         <div>
           <AppBar color="primary" position="static">
             <Toolbar>
-              <Typography variant="title" color="inherit">
-                RODEVS Portfolio
-             </Typography>
+              <img src="logo.png" alt="RODEVS" height="84px"></img>
              <NavBar/>
             </Toolbar>          
-          </AppBar>        
+          </AppBar>
+          <body>
+            <MainContent/>
+          </body>        
         </div>
       );
     }
